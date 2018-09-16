@@ -1,2 +1,5 @@
 language: java
 jdk: oraclejdk10
+
+script: 
+ - mvn spring-boot:run
