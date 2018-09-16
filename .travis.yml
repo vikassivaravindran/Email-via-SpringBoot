@@ -5,3 +5,4 @@ deploy:
   provider: heroku
   api_key:
     secure: 76b131b2-78f1-4a2e-9ec5-bbada6d16c8d
+    name: travisherokuplayground
