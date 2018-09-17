@@ -1,0 +1,1 @@
+﻿web: java -jar target/send-email-via-springboot-0.0.1-SNAPSHOT.jar
