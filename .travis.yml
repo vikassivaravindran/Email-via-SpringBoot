@@ -2,6 +2,6 @@ language: java
 jdk: oraclejdk8
 deploy:
   provider: heroku
+  app : spring-boot-heroku-deploy
   api_key:
     secure: "j/U7cmdAKsOX9+CWVIvIpsvFwxnpgJaAwAA+EjBuKTgxMFEHuWIiENUDUsmFvHfdSyRwm8rzy4HLDXn6pJAh8+j/sjzn4RzeJpHi0n/b1fiHvIW3SztvHzocp3vrpv9/5p9wF1/sCN0mSIMFqLiZMzzzWZfzT9LABGJ/dSzcWmGp/XIJ+XcVsnvLdKhDpaODapaZKpxJOj37SWsCHk6wiAEU9eJkvDME+P65VV+6k/sgAmFHNROqiZwYZGscogSGBAV3j2uZ6iobcnmzP7DDQyo/dJbkNWcGq0wMs32Wn2Q/I/0iFkLOpDZeWCa5IWp0NhF8aNUUHPsDn0IQJHMsVn0oiJvOcaoGi6Q/chLMPrL7r/UbswUC+HkDHOTSsnjTgpAbZD9DmlCoIu9fzTIDJCcpOs/YnS5Q8D99AdFiouDOv7Ox7K7MYcb1z2coElG2u/pCiyu9SzSBj7TUIQQJU4bbKOuOSvPAw83q8mlRpISeTskKnf3xt5BbAidW6trMqa3FooOE2RW44BWy9x6xZL1l4gbP3hI3DsG/flUKejGxu4atVqdBtEJQW2tOSQeSMmZKv1kUHGbQWBUmX71kdfFLiG1WbsCoMsXNzDHjdKjktTF0Xy1i3ufKmjfEEG8MT9iOL+SdtRLi/AA0khseUIBi4NSNV/6eRvLQu3H/IGE="
-    app: spring-boot-heroku-deploy
